@@ -128,9 +128,7 @@ open_to:
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parth0180&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -144,7 +142,6 @@ open_to:
   </picture>
 </div>
 
-> ⚙️ **Setup snake:** Add a GitHub Action to auto-generate the snake SVG → [platane/snk](https://github.com/platane/snk)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
