@@ -1,88 +1,175 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Parth%20Odhvani&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20WordPress%20Architect%20%C2%B7%20Laravel%20Engineer&descAlignY=60&descSize=17&descColor=c9b1ff"/>
+</div>
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9¢er=true&vCenter=true&width=600&lines=hey%2C+i'm+parth+odhvani+%F0%9F%91%8B;full-stack+dev+%7C+wp+wizard+%F0%9F%AA%84;learning+devops+%2B+next.js+%F0%9F%9A%80;open+to+collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=parth0180&style=for-the-badge&color=blueviolet" alt="profile views" />
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production-grade+WordPress+plugins+%F0%9F%94%8C;Crafting+clean+Laravel+backends+%E2%9A%99%EF%B8%8F;Exploring+Docker+%C2%B7+AWS+%C2%B7+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Shipping+AI-integrated+applications+%F0%9F%A4%96;Open+to+collabs+%E2%80%94+let%27s+build+something+real)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/parth-odhvani-566310268)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthodhvani010@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth0180)
+[![Profile Views](https://komarev.com/ghpvc/?username=parth0180&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/parth0180)
+
+</div>
+
+<br/>
+
 ---
 
-## ⚡ about me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```js
-const parth = {
-  pronouns: "he/him",
-  location: "India 🇮🇳",
-  currentlyBuilding: "Checkout Consent for WooCommerce",
-  learning: ["DevOps", "Next.js"],
-  askMeAbout: ["WordPress", "PHP", "Laravel", "React"],
-  email: "parthodhvani010@gmail.com",
-  funFact: "I turn coffee ☕ into clean commits"
-};
+## 🧑‍💻 &nbsp;About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```yaml
+name:     Parth Odhvani
+location: Ahmedabad, India 🇮🇳
+role:     Full Stack Developer
+
+focus:
+  - WordPress Plugin Architecture
+  - WooCommerce Custom Checkout Flows
+  - Laravel REST APIs & Microservices
+  - React / Next.js Frontends
+
+currently_learning:
+  - Docker & Containerization
+  - AWS & Cloud Infrastructure
+  - DevOps Practices
+
+building:
+  - Checkout Consent for WooCommerce
+  - AI-Integrated Laravel Applications
+  - Custom Gutenberg Block Plugins
+
+open_to:
+  - Freelance Projects
+  - Plugin Collaborations
+  - Full-Stack Contracts
 ```
 
----
+<br clear="right"/>
 
-## 🛠️ tech stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
----
-
-## 📌 featured project
-
-> 🔌 **[Checkout Consent for WooCommerce](https://github.com/parth0180/checkout-consent-for-woocommerce)**  
-> A WordPress plugin adding customizable consent checkboxes to WooCommerce checkout.  
-> Looking for collaborators — DM me!
-
----
-
-## 📊 github stats
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parth0180&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth0180&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+### ⚡ Backend & CMS
+[![Skills](https://skillicons.dev/icons?i=php,wordpress,laravel,mysql&theme=dark)](https://skillicons.dev)
 
-<br />
+### 🎨 Frontend
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
-<img src="https://streak-stats.demolab.com/?user=parth0180&theme=tokyonight&hide_border=true" />
+### ☁️ Cloud, DevOps & Tools
+[![Skills](https://skillicons.dev/icons?i=docker,aws,gcp,git,linux,vscode,github&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 connect
+## 🚀 &nbsp;Featured Project
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/parth-odhvani-566310268)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthodhvani010@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth0180)
+<a href="https://github.com/parth0180/checkout-consent-for-woocommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parth0180&repo=checkout-consent-for-woocommerce&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&bg_color=0d1117" />
+</a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer" />
+
+| Feature | Details |
+|---|---|
+| 🔌 Type | WordPress / WooCommerce Plugin |
+| ⚙️ Highlights | HPOS Compatible · Admin Dashboard · Session Persistence |
+| 📦 Stack | PHP · WooCommerce Hooks · Custom REST Endpoints |
+| 🤝 Status | Open for Collaborators |
+
 </div>
-  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=parth0180&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth0180&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=parth0180&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parth0180&theme=tokyo-night&hide_border=true&area=true&area_color=A78BFA&color=A78BFA&line=7C3AED&point=ffffff&bg_color=0d1117"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parth0180&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 &nbsp;Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parth0180/parth0180/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parth0180/parth0180/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/parth0180/parth0180/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+> ⚙️ **Setup snake:** Add a GitHub Action to auto-generate the snake SVG → [platane/snk](https://github.com/platane/snk)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📬 &nbsp;Let's Connect
+
+<div align="center">
+
+**Have a project in mind? Let's talk.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/parth-odhvani-566310268)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthodhvani010@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth0180)
+
+<br/>
+
+> *"The best code is the one that ships and solves something real."*
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Built%20with%20precision.%20Shipped%20with%20intent.&fontSize=18&fontColor=c9b1ff&fontAlignY=65&animation=fadeIn"/>
+</div>
