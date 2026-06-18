@@ -1,5 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Parth%20Odhvani&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20WordPress%20Architect%20%C2%B7%20Laravel%20Engineer&descAlignY=60&descSize=17&descColor=c9b1ff"/>
+  <img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:AEEFFF,100:5AC8FA&height=220&section=header&text=Parth%20Odhvani&fontSize=56&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20WordPress%20Architect%20%C2%B7%20Laravel%20Engineer&descAlignY=60&descSize=17&descColor=334155"
+/>
 </div>
 
 <br/>
