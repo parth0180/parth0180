@@ -1,0 +1,79 @@
+<svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F0F9FF"/>
+      <stop offset="100%" stop-color="#E0F2FE"/>
+    </linearGradient>
+    <linearGradient id="screenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+    <linearGradient id="monitorGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="260" rx="20" fill="url(#bgGrad)"/>
+
+  <!-- giant translucent code bracket backdrop -->
+  <text x="40" y="195" font-family="Fira Code, monospace" font-size="170" fill="#BAE6FD" opacity="0.45">&lt;/&gt;</text>
+
+  <!-- desk -->
+  <rect x="60" y="205" width="680" height="14" rx="7" fill="#0F172A" opacity="0.85"/>
+  <rect x="60" y="219" width="680" height="6" rx="3" fill="#0284C7" opacity="0.35"/>
+
+  <!-- monitor stand -->
+  <rect x="392" y="178" width="16" height="27" rx="3" fill="#475569"/>
+  <rect x="365" y="200" width="70" height="8" rx="4" fill="#475569"/>
+
+  <!-- monitor -->
+  <rect x="300" y="58" width="200" height="124" rx="10" fill="url(#monitorGrad)"/>
+  <rect x="312" y="70" width="176" height="100" rx="4" fill="url(#screenGrad)"/>
+  <!-- code lines on screen -->
+  <rect x="322" y="80" width="60" height="6" rx="3" fill="#BAE6FD" opacity="0.9"/>
+  <rect x="322" y="92" width="100" height="6" rx="3" fill="#F0F9FF" opacity="0.8"/>
+  <rect x="332" y="104" width="80" height="6" rx="3" fill="#BAE6FD" opacity="0.7"/>
+  <rect x="332" y="116" width="120" height="6" rx="3" fill="#F0F9FF" opacity="0.6"/>
+  <rect x="322" y="128" width="50" height="6" rx="3" fill="#BAE6FD" opacity="0.9"/>
+  <rect x="322" y="140" width="90" height="6" rx="3" fill="#F0F9FF" opacity="0.7"/>
+  <rect x="332" y="152" width="70" height="6" rx="3" fill="#BAE6FD" opacity="0.6"/>
+
+  <!-- keyboard -->
+  <rect x="330" y="208" width="140" height="22" rx="5" fill="#1E293B"/>
+  <g fill="#475569">
+    <rect x="338" y="213" width="10" height="6" rx="1"/>
+    <rect x="352" y="213" width="10" height="6" rx="1"/>
+    <rect x="366" y="213" width="10" height="6" rx="1"/>
+    <rect x="380" y="213" width="10" height="6" rx="1"/>
+    <rect x="394" y="213" width="10" height="6" rx="1"/>
+    <rect x="408" y="213" width="10" height="6" rx="1"/>
+    <rect x="422" y="213" width="10" height="6" rx="1"/>
+    <rect x="436" y="213" width="10" height="6" rx="1"/>
+    <rect x="450" y="213" width="10" height="6" rx="1"/>
+    <rect x="350" y="219" width="70" height="6" rx="2"/>
+  </g>
+
+  <!-- coffee cup -->
+  <g>
+    <path d="M 590 175 h 46 v 28 a 23 23 0 0 1 -46 0 z" fill="#0F172A"/>
+    <rect x="586" y="172" width="54" height="9" rx="4" fill="#0284C7"/>
+    <path d="M 636 182 q 16 2 16 14 q 0 13 -16 13" stroke="#0F172A" stroke-width="5" fill="none"/>
+    <path d="M 600 162 q -6 -10 2 -18" stroke="#94A3B8" stroke-width="3" fill="none" opacity="0.7"/>
+    <path d="M 614 162 q -6 -10 2 -18" stroke="#94A3B8" stroke-width="3" fill="none" opacity="0.7"/>
+  </g>
+
+  <!-- potted plant -->
+  <g>
+    <path d="M 160 205 l 10 -34 l 10 34 z" fill="#38BDF8" opacity="0.85"/>
+    <path d="M 145 205 l 16 -26 l 8 26 z" fill="#0EA5E9" opacity="0.85"/>
+    <path d="M 185 205 l -16 -26 l -6 26 z" fill="#0EA5E9" opacity="0.85"/>
+    <path d="M 145 200 h 40 l -5 22 h -30 z" fill="#0F172A"/>
+  </g>
+
+  <!-- floating dots / sparkle accents -->
+  <circle cx="120" cy="70" r="5" fill="#38BDF8" opacity="0.6"/>
+  <circle cx="690" cy="60" r="6" fill="#0EA5E9" opacity="0.5"/>
+  <circle cx="660" cy="110" r="4" fill="#0284C7" opacity="0.5"/>
+  <circle cx="100" cy="130" r="4" fill="#0EA5E9" opacity="0.5"/>
+</svg>

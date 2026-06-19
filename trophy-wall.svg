@@ -1,0 +1,79 @@
+<svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F0F9FF"/>
+      <stop offset="100%" stop-color="#E0F2FE"/>
+    </linearGradient>
+    <linearGradient id="cupGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0284C7"/>
+    </linearGradient>
+    <linearGradient id="cupGradDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="240" rx="20" fill="url(#bgGrad5)"/>
+
+  <!-- back wall stars -->
+  <g fill="#7DD3FC" opacity="0.5">
+    <path d="M 120 40 l 4 10 l 10 1 l -8 7 l 2 10 l -8 -6 l -8 6 l 2 -10 l -8 -7 l 10 -1 z"/>
+    <path d="M 660 30 l 4 10 l 10 1 l -8 7 l 2 10 l -8 -6 l -8 6 l 2 -10 l -8 -7 l 10 -1 z"/>
+    <path d="M 400 24 l 3 8 l 8 1 l -6 6 l 2 8 l -7 -5 l -7 5 l 2 -8 l -6 -6 l 8 -1 z"/>
+  </g>
+
+  <!-- shelf -->
+  <rect x="60" y="180" width="680" height="14" rx="4" fill="#0F172A"/>
+  <rect x="60" y="194" width="680" height="6" rx="3" fill="#0284C7" opacity="0.35"/>
+  <path d="M 90 180 l 0 -16 l 14 16 z" fill="#0284C7" opacity="0.5"/>
+  <path d="M 710 180 l 0 -16 l -14 16 z" fill="#0284C7" opacity="0.5"/>
+
+  <!-- trophy 1 -->
+  <g>
+    <rect x="148" y="160" width="28" height="20" fill="#0F172A"/>
+    <path d="M 134 110 h 56 v 26 a 28 28 0 0 1 -56 0 z" fill="url(#cupGrad)"/>
+    <path d="M 134 116 c -18 0 -18 30 4 32" stroke="#0284C7" stroke-width="5" fill="none"/>
+    <path d="M 190 116 c 18 0 18 30 -4 32" stroke="#0284C7" stroke-width="5" fill="none"/>
+    <rect x="150" y="158" width="24" height="6" fill="#0284C7"/>
+    <text x="162" y="130" font-family="Fira Code, monospace" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">★</text>
+  </g>
+
+  <!-- trophy 2 (taller, center) -->
+  <g>
+    <rect x="368" y="148" width="34" height="32" fill="#0F172A"/>
+    <path d="M 350 84 h 70 v 32 a 35 35 0 0 1 -70 0 z" fill="url(#cupGradDark)"/>
+    <path d="M 350 92 c -22 0 -22 36 5 38" stroke="#0F172A" stroke-width="6" fill="none"/>
+    <path d="M 420 92 c 22 0 22 36 -5 38" stroke="#0F172A" stroke-width="6" fill="none"/>
+    <rect x="372" y="146" width="26" height="6" fill="#1E293B"/>
+    <text x="385" y="108" font-family="Fira Code, monospace" font-size="16" font-weight="700" fill="#7DD3FC" text-anchor="middle">★</text>
+  </g>
+
+  <!-- trophy 3 -->
+  <g>
+    <rect x="600" y="160" width="28" height="20" fill="#0F172A"/>
+    <path d="M 586 110 h 56 v 26 a 28 28 0 0 1 -56 0 z" fill="url(#cupGrad)"/>
+    <path d="M 586 116 c -18 0 -18 30 4 32" stroke="#0284C7" stroke-width="5" fill="none"/>
+    <path d="M 642 116 c 18 0 18 30 -4 32" stroke="#0284C7" stroke-width="5" fill="none"/>
+    <rect x="602" y="158" width="24" height="6" fill="#0284C7"/>
+    <text x="614" y="130" font-family="Fira Code, monospace" font-size="13" font-weight="700" fill="#FFFFFF" text-anchor="middle">★</text>
+  </g>
+
+  <!-- medal hanging left -->
+  <g>
+    <path d="M 250 122 l 14 26 l -14 -6 l -14 6 z" fill="#38BDF8"/>
+    <circle cx="250" cy="120" r="16" fill="#0EA5E9" stroke="#0F172A" stroke-width="2"/>
+    <text x="250" y="125" font-family="Fira Code, monospace" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+  </g>
+
+  <!-- medal hanging right -->
+  <g>
+    <path d="M 510 122 l 14 26 l -14 -6 l -14 6 z" fill="#38BDF8"/>
+    <circle cx="510" cy="120" r="16" fill="#0EA5E9" stroke="#0F172A" stroke-width="2"/>
+    <text x="510" y="125" font-family="Fira Code, monospace" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">2</text>
+  </g>
+
+  <!-- floating sparkles -->
+  <circle cx="100" cy="80" r="4" fill="#0EA5E9" opacity="0.5"/>
+  <circle cx="700" cy="90" r="5" fill="#38BDF8" opacity="0.5"/>
+</svg>

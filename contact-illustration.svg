@@ -1,0 +1,62 @@
+<svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad8" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F0F9FF"/>
+      <stop offset="100%" stop-color="#E0F2FE"/>
+    </linearGradient>
+    <linearGradient id="envGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="240" rx="20" fill="url(#bgGrad8)"/>
+
+  <!-- network graph backdrop -->
+  <g stroke="#BAE6FD" stroke-width="2" opacity="0.8">
+    <line x1="90" y1="60" x2="200" y2="110"/>
+    <line x1="200" y1="110" x2="150" y2="190"/>
+    <line x1="200" y1="110" x2="330" y2="70"/>
+    <line x1="600" y1="80" x2="700" y2="50"/>
+    <line x1="600" y1="80" x2="660" y2="180"/>
+    <line x1="600" y1="80" x2="500" y2="60"/>
+  </g>
+  <g fill="#7DD3FC">
+    <circle cx="90" cy="60" r="6"/>
+    <circle cx="200" cy="110" r="7"/>
+    <circle cx="150" cy="190" r="5"/>
+    <circle cx="330" cy="70" r="5"/>
+    <circle cx="600" cy="80" r="7"/>
+    <circle cx="700" cy="50" r="5"/>
+    <circle cx="660" cy="180" r="6"/>
+    <circle cx="500" cy="60" r="5"/>
+  </g>
+
+  <!-- envelope, center stage -->
+  <g>
+    <rect x="310" y="90" width="180" height="120" rx="12" fill="url(#envGrad)"/>
+    <path d="M 310 100 l 90 64 l 90 -64" fill="none" stroke="#F0F9FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 310 200 l 60 -50" stroke="#0284C7" stroke-width="3" opacity="0.5"/>
+    <path d="M 490 200 l -60 -50" stroke="#0284C7" stroke-width="3" opacity="0.5"/>
+  </g>
+
+  <!-- chat bubble -->
+  <g>
+    <rect x="540" y="120" width="120" height="64" rx="16" fill="#0F172A"/>
+    <path d="M 560 184 l 0 20 l 20 -20 z" fill="#0F172A"/>
+    <circle cx="575" cy="152" r="6" fill="#7DD3FC"/>
+    <circle cx="600" cy="152" r="6" fill="#38BDF8"/>
+    <circle cx="625" cy="152" r="6" fill="#0EA5E9"/>
+  </g>
+
+  <!-- paper plane trailing -->
+  <g>
+    <path d="M 150 60 l 60 -22 l -22 60 l -10 -24 l -24 -8 z" fill="#0F172A"/>
+    <path d="M 150 60 l 40 8" stroke="#0F172A" stroke-width="2"/>
+    <path d="M 100 56 q 18 -8 40 4" stroke="#94A3B8" stroke-width="2.5" fill="none" stroke-dasharray="2 8" opacity="0.7"/>
+  </g>
+
+  <!-- floating accents -->
+  <circle cx="250" cy="200" r="4" fill="#0284C7" opacity="0.5"/>
+  <circle cx="730" cy="130" r="5" fill="#38BDF8" opacity="0.5"/>
+</svg>

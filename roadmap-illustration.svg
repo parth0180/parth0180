@@ -1,0 +1,44 @@
+<svg width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad4" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F0F9FF"/>
+      <stop offset="100%" stop-color="#E0F2FE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="240" rx="20" fill="url(#bgGrad4)"/>
+
+  <!-- winding path -->
+  <path d="M 70 180 C 180 80, 260 220, 360 120 S 540 60, 620 140 S 700 60, 740 90"
+        fill="none" stroke="#7DD3FC" stroke-width="6" stroke-linecap="round" stroke-dasharray="2 16"/>
+
+  <!-- waypoint 01 -->
+  <circle cx="70" cy="180" r="22" fill="#0EA5E9"/>
+  <text x="70" y="186" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">01</text>
+  <text x="70" y="218" font-family="Fira Code, monospace" font-size="12" fill="#0F172A" text-anchor="middle">Docker</text>
+
+  <!-- waypoint 02 -->
+  <circle cx="360" cy="120" r="22" fill="#38BDF8"/>
+  <text x="360" y="126" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#0F172A" text-anchor="middle">02</text>
+  <text x="360" y="158" font-family="Fira Code, monospace" font-size="12" fill="#0F172A" text-anchor="middle">AWS</text>
+
+  <!-- waypoint 03 -->
+  <circle cx="620" cy="140" r="22" fill="#0284C7"/>
+  <text x="620" y="146" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">03</text>
+  <text x="620" y="178" font-family="Fira Code, monospace" font-size="12" fill="#0F172A" text-anchor="middle">DevOps</text>
+
+  <!-- waypoint 04 + flag -->
+  <circle cx="740" cy="90" r="22" fill="#0F172A"/>
+  <text x="740" y="96" font-family="Fira Code, monospace" font-size="14" font-weight="700" fill="#7DD3FC" text-anchor="middle">04</text>
+  <path d="M 740 56 v -34" stroke="#0F172A" stroke-width="3"/>
+  <path d="M 740 22 l 26 9 l -26 9 z" fill="#0EA5E9"/>
+  <text x="740" y="128" font-family="Fira Code, monospace" font-size="12" fill="#0F172A" text-anchor="middle">Cloud Infra</text>
+
+  <!-- small mountains decorative -->
+  <path d="M 760 240 L 795 205 L 800 240 Z" fill="#BAE6FD" opacity="0.6"/>
+
+  <!-- floating sparkles -->
+  <circle cx="220" cy="50" r="4" fill="#0EA5E9" opacity="0.5"/>
+  <circle cx="480" cy="190" r="5" fill="#38BDF8" opacity="0.5"/>
+  <circle cx="660" cy="40" r="4" fill="#0284C7" opacity="0.5"/>
+</svg>
