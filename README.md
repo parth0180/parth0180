@@ -1,284 +1,175 @@
 <div align="center">
+  <img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:AEEFFF,100:5AC8FA&height=220&section=header&text=Parth%20Odhvani&fontSize=56&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20WordPress%20Architect%20%C2%B7%20Laravel%20Engineer&descAlignY=60&descSize=17&descColor=334155"
+/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:1A1A2E,100:16213E&text=Parth%20Odhvani&fontColor=00F5FF&fontSize=58&fontAlignY=36&desc=Full%20Stack%20Developer%20·%20WordPress%20Architect%20·%20Laravel%20Engineer&descAlignY=58&descSize=17&descColor=F72585&animation=fadeIn"/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="34"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Parth+%F0%9F%91%8B;Full+Stack+Dev+%E2%80%94+WordPress+%2B+WooCommerce+%2B+Laravel;Currently+leveling+up+in+Docker+%26+AWS+%E2%98%81%EF%B8%8F;Open+to+freelance%2C+contracts+%26+collabs+%F0%9F%9A%80"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🚀_STATUS-OPEN_TO_COLLABORATE-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5FF"/>
-<img src="https://img.shields.io/badge/📍_BASED_IN-AHMEDABAD,_INDIA-0D1117?style=for-the-badge&labelColor=0D1117&color=F72585"/>
-<img src="https://img.shields.io/badge/💼_BUILDING-WOOCOMMERCE_PLUGIN-0D1117?style=for-the-badge&labelColor=0D1117&color=9D4EDD"/>
-
-<br><br>
-
-<a href="https://in.linkedin.com/in/parth-odhvani-566310268"><img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/></a>
-<a href="mailto:parthodhvani010@gmail.com"><img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=gmail&logoColor=0D1117"/></a>
-<a href="https://github.com/parth0180"><img src="https://img.shields.io/badge/GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
-<img src="https://komarev.com/ghpvc/?username=parth0180&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production-grade+WordPress+plugins+%F0%9F%94%8C;Crafting+clean+Laravel+backends+%E2%9A%99%EF%B8%8F;Exploring+Docker+%C2%B7+AWS+%C2%B7+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Shipping+AI-integrated+applications+%F0%9F%A4%96;Open+to+collabs+%E2%80%94+let%27s+build+something+real)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:9D4EDD,100:F72585&height=3&section=header"/>
+<div align="center">
 
-<h2 align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/People/Man%20Technologist.png" width="32"/>
-&nbsp;About Me
-</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/parth-odhvani-566310268)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthodhvani010@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth0180)
+[![Profile Views](https://komarev.com/ghpvc/?username=parth0180&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/parth0180)
 
-<table>
-<tr>
-<td width="55%" valign="top">
+</div>
 
-| | |
-|:---|:---|
-| 🧑‍💻 | Full Stack Developer |
-| 📍 | Ahmedabad, India 🇮🇳 |
-| 🧩 | WordPress Architect · Laravel Engineer |
-| 🔭 | Building **Checkout Consent for WooCommerce** |
-| 🌱 | Leveling up: Docker, AWS, DevOps |
-| 💌 | parthodhvani010@gmail.com |
+<br/>
 
-</td>
-<td width="45%" valign="top">
+---
 
-```typescript
-const parth: Developer = {
-  role: "Full Stack Developer",
-  stack: ["WordPress", "WooCommerce",
-          "Laravel", "Next.js"],
-  status: "Open to freelance · collabs",
-  shipping: true
-};
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🧑‍💻 &nbsp;About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```yaml
+name:     Parth Odhvani
+location: Ahmedabad, India 🇮🇳
+role:     Full Stack Developer
+
+focus:
+  - WordPress Plugin Architecture
+  - WooCommerce Custom Checkout Flows
+  - Laravel REST APIs & Microservices
+  - React / Next.js Frontends
+
+currently_learning:
+  - Docker & Containerization
+  - AWS & Cloud Infrastructure
+  - DevOps Practices
+
+building:
+  - Checkout Consent for WooCommerce
+  - AI-Integrated Laravel Applications
+  - Custom Gutenberg Block Plugins
+
+open_to:
+  - Freelance Projects
+  - Plugin Collaborations
+  - Full-Stack Contracts
 ```
 
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
-<details>
-<summary>🖱️ <b>Click to expand — how I approach a build</b></summary>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```
-1. Understand the real problem before writing code
-2. Design plugin/API architecture that survives scale
-3. Build it clean — no half-documented hacks
-4. Ship it, then document the trade-offs
-```
+## 🛠️ &nbsp;Tech Stack
 
-</details>
+<div align="center">
 
-<br>
+### ⚡ Backend & CMS
+[![Skills](https://skillicons.dev/icons?i=php,wordpress,laravel,mysql&theme=dark)](https://skillicons.dev)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,50:9D4EDD,100:00F5FF&height=3&section=header"/>
+### 🎨 Frontend
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
-<h2 align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Gear.png" width="32"/>
-&nbsp;Tech Stack
-</h2>
+### ☁️ Cloud, DevOps & Tools
+[![Skills](https://skillicons.dev/icons?i=docker,aws,gcp,git,linux,vscode,github&theme=dark)](https://skillicons.dev)
 
-<table>
-<tr>
-<td align="center" width="33%">
+</div>
 
-**Backend & CMS**
-<br><br>
-<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,mysql&theme=dark"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-</td>
-<td align="center" width="33%">
-
-**Frontend**
-<br><br>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark"/>
-
-</td>
-<td align="center" width="33%">
-
-**Infra & Tools**
-<br><br>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,linux&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:9D4EDD,100:F72585&height=3&section=header"/>
-
-<h2 align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32"/>
-&nbsp;Featured Projects
-</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔌 Checkout Consent for WooCommerce**
-- ✅ HPOS compatible
-- 🖥️ Clean admin dashboard
-- 💾 Session persistence
-- 📡 Custom REST endpoints
-- 🤝 Open for collaborators
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 AI-Integrated Laravel Services**
-- ⚙️ Laravel REST APIs
-- 🧠 AI-driven workflows
-- 🔐 Built with security in mind
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🧱 Custom Gutenberg Block Plugins**
-- 🎨 Block-editor components
-- ⚡ Lightweight & fast-rendering
-
-</td>
-<td width="50%" valign="top">
-
-**🪝 React / Next.js Frontends**
-- 💻 Interfaces, prototype to production
-- 🔗 Paired with Laravel REST APIs
-
-</td>
-</tr>
-</table>
+## 🚀 &nbsp;Featured Project
 
 <div align="center">
 
 <a href="https://github.com/parth0180/checkout-consent-for-woocommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=parth0180&repo=checkout-consent-for-woocommerce&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=F72585&text_color=C9D1D9&border_color=30363D&border_radius=14"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parth0180&repo=checkout-consent-for-woocommerce&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&bg_color=0d1117" />
 </a>
 
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,50:9D4EDD,100:00F5FF&height=3&section=header"/>
-
-<h2 align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="32"/>
-&nbsp;Learning Roadmap
-</h2>
+<br/>
 
 <div align="center">
 
-| Phase | Focus | Status |
-|:---:|:---|:---:|
-| 01 | 🐳 **Docker** — containerizing WordPress & Laravel apps | ![](https://img.shields.io/badge/In_Progress-00F5FF?style=flat-square&labelColor=0D1117) |
-| 02 | ☁️ **AWS** — EC2, S3, RDS, Lambda deployments | ![](https://img.shields.io/badge/Learning-9D4EDD?style=flat-square&labelColor=0D1117) |
-| 03 | 🔁 **DevOps** — CI/CD, GitHub Actions, automation | ![](https://img.shields.io/badge/Exploring-F72585?style=flat-square&labelColor=0D1117) |
-| 04 | 🏗️ **Cloud Infra** — scalable production architecture | ![](https://img.shields.io/badge/Upcoming-8B949E?style=flat-square&labelColor=0D1117) |
+| Feature | Details |
+|---|---|
+| 🔌 Type | WordPress / WooCommerce Plugin |
+| ⚙️ Highlights | HPOS Compatible · Admin Dashboard · Session Persistence |
+| 📦 Stack | PHP · WooCommerce Hooks · Custom REST Endpoints |
+| 🤝 Status | Open for Collaborators |
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:9D4EDD,100:F72585&height=3&section=header"/>
-
-<h2 align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Trophy.png" width="32"/>
-&nbsp;What I Bring
-</h2>
-
-<table>
-<tr>
-<td width="33%" align="center">
-<b>🧩 Plugin Architecture</b>
-<br><sub>Clean and maintainable as it scales — not just functional on day one.</sub>
-</td>
-<td width="33%" align="center">
-<b>⚙️ End-to-End Ownership</b>
-<br><sub>Database schema to UI polish — built, debugged, and shipped independently.</sub>
-</td>
-<td width="33%" align="center">
-<b>🤝 Clear Communication</b>
-<br><sub>Trade-offs explained simply — collaborators are never left guessing.</sub>
-</td>
-</tr>
-</table>
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=parth0180&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-readme-stats.vercel.app/api?username=parth0180&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth0180&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" height="180"/>
 
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,50:9D4EDD,100:00F5FF&height=3&section=header"/>
-
-<h2 align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="32"/>
-&nbsp;GitHub Stats
-</h2>
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=parth0180&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F5FF&icon_color=F72585&text_color=C9D1D9&border_color=30363D" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth0180&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&border_color=30363D" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=parth0180&hide_border=true&background=0D1117&ring=00F5FF&fire=F72585&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E&stroke=30363D"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parth0180&hide_border=true&bg_color=0D1117&color=00F5FF&line=F72585&point=FFFFFF&area=true&area_color=00F5FF"/>
-
+  <img src="https://streak-stats.demolab.com/?user=parth0180&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9"/>
 </div>
 
-<details>
-<summary>🐍 <b>Click to expand — live contribution snake</b></summary>
-<br>
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parth0180&theme=tokyo-night&hide_border=true&area=true&area_color=A78BFA&color=A78BFA&line=7C3AED&point=ffffff&bg_color=0d1117"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 &nbsp;Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parth0180/parth0180/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parth0180/parth0180/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parth0180/parth0180/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/parth0180/parth0180/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
-  <br/>
-  <sub>Needs the <a href="https://github.com/platane/snk">platane/snk</a> GitHub Action enabled on this repo to render.</sub>
 </div>
 
-</details>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:9D4EDD,100:F72585&height=3&section=header"/>
-
-<h2 align="left">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32"/>
-&nbsp;Let's Connect
-</h2>
+## 📬 &nbsp;Let's Connect
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Freelance-Open-0D1117?style=for-the-badge&labelColor=0D1117&color=00F5FF"/>
-<img src="https://img.shields.io/badge/Collaborations-Open-0D1117?style=for-the-badge&labelColor=0D1117&color=F72585"/>
-<img src="https://img.shields.io/badge/Contract_Work-Open-0D1117?style=for-the-badge&labelColor=0D1117&color=9D4EDD"/>
+**Have a project in mind? Let's talk.**
 
-<br><br>
+<br/>
 
-<a href="https://in.linkedin.com/in/parth-odhvani-566310268"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/></a>
-<a href="mailto:parthodhvani010@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-F72585?style=for-the-badge&logo=gmail&logoColor=0D1117"/></a>
-<a href="https://github.com/parth0180"><img src="https://img.shields.io/badge/Follow_on_GitHub-9D4EDD?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/parth-odhvani-566310268)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthodhvani010@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth0180)
 
-<br><br>
+<br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Objects/Envelope.png" width="26"/>
-
-> *"Shipped code beats perfect code in a drawer."*
+> *"The best code is the one that ships and solves something real."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:16213E,50:1A1A2E,100:0D1117&section=footer&animation=fadeIn"/>
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Built%20with%20precision.%20Shipped%20with%20intent.&fontSize=18&fontColor=c9b1ff&fontAlignY=65&animation=fadeIn"/>
+</div>
